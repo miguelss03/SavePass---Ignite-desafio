@@ -1,7 +1,7 @@
 # SavePass---Ignite-desafio
 App que cadastra e gerencia senhas de diversas contas.
 
-#Esse aplicativo foi disponibilizado nas aulas de React Native do Ignite, com implementações logicasa proprias do aluno.
+# Esse aplicativo foi disponibilizado nas aulas de React Native do Ignite, com implementações logicasa proprias do aluno.
 
 
 
